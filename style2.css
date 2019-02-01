@@ -1,0 +1,41 @@
+@import url("reset2.css");
+
+body {
+  font-size: 20px;
+  font-family: Arial;
+}
+
+h1 {
+  color: black
+  background-color: #d1db23;
+  font-size: 40px;
+}
+
+p {
+  color: black
+  font-size: 20px;
+}
+
+p#un {
+  background-color: #d87627;
+  width:  300px;
+  padding: 25px;
+  margin: 25px;
+  border: 5px solid black;
+}
+
+p#deux {
+  background-color: #d89a27
+  width: 450px;
+  padding: 30px;
+  margin: 30px;
+  border: 10px dashed #db5623;
+}
+
+p#trois {
+  background-color: #fa500f;
+  width: 500px;
+  padding: 30px;
+  margin: 30px;
+  border: 15px solid #db9123;
+}
